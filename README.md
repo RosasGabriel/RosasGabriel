@@ -1,4 +1,4 @@
-### Hi there 👋, Hello there, my name is Gabriel Rosas
+### 👋 Hello there, my name is Gabriel Rosas
 #### Programming and Development
 I have interest in the areas of IoT, backend and overall firmware development
 
