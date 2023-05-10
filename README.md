@@ -4,6 +4,14 @@ I have interest in the areas of IoT, backend and overall firmware development
 
 Skills: C / PYTHON / JAVASCRIPT / HMTL / CSS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosasGabriel&show_icons=true&theme=tokyonight&height=300&width=500) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosasGabriel&theme=tokyonight&height=400&width=300&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+<div align="center">
+  <a href="https://github.com/RosasGabriel">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=RosasGabriel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosasGabriel&card_width=350&layout=donut&langs_count=7&theme=cobalt"/>
+</div>
+  
+<br> <hr>     
 
 - 🌱 This page is still a work in progress.
