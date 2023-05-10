@@ -2,7 +2,7 @@
 #### Programming and Development
 I have interest in the areas of IoT, backend and overall software development
 
-Skills: C / PYTHON / JAVASCRIPT / HMTL / CSS
+Skills: C++ / PYTHON / JAVASCRIPT / HMTL / CSS
 
 <hr>
 
