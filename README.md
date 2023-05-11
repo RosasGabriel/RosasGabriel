@@ -1,6 +1,8 @@
-### 👋 Hello there, my name is Gabriel Rosas
+### 👋 Hello there, I'm Gabriel Rosas
 #### Programming and Development
-I have interest in the areas of IoT, backend and overall software development
+- 💻 I'm currently undergraduate in Computer Engineering at the Federal University of Paraíba (UFPB)\
+    and volunteer researcher at the Laboratory of Systems Engineering and Robotics (LaSER)
+- 🔎 I have interest in the areas of IoT, backend and overall software development
 
 Skills: C++ / PYTHON / JAVASCRIPT / HMTL / CSS
 
