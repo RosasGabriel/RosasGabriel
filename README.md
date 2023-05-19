@@ -12,7 +12,7 @@ Skills: C++ / PYTHON / JAVASCRIPT / HMTL / CSS
 <div align="center">
   <a href="https://github.com/RosasGabriel">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RosasGabriel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosasGabriel&card_width=370&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosasGabriel&card_width=325&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 <br> <hr>     
