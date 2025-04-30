@@ -4,6 +4,8 @@
     and volunteer researcher at the Laboratory of Systems Engineering and Robotics (LaSER)
 - 🔎 I have interest in the areas of IoT, backend and overall software development
 - 📓 Currently learnig Ionic framework and solidifying my knowledge in JavaScript
+- ☎️ Contact: +351 932 131 487
+- 📫 Email: gabriel.rosas7232@gmail.com
 
 Skills: C++ / PYTHON / JAVASCRIPT / HMTL / CSS
 
